@@ -31,7 +31,7 @@
 
 # Диаграмма вариантов использования
 
- <img width="709" height="530" alt="ZLJ1Qjj04BqBz0-BBssX-eMIub9ooIKaz18eYxHrbYXh8wrFRS5kINDmeFHKAALDcto0Okn6EBRo2xD_b9crh6XZ1VSWO-tCU_FcxOosKiqJtJ-EVIyMxpJJNPR8pg5caKn4g6LN-PxlyL1t4zQ2dp251JuJ-0TJCpXGS0i5CmF8u0eAymcc1yeC6SpW1dBAnQCCvf2t64_P3bUy8" src="https://github.com/user-attachments/assets/428b78d2-062b-416e-859f-0b585d6f18be" />
+ <img width="709" height="530" alt="ZLJ1Qjj04BqBz0-BBssX-eMIub9ooIKaz18eYxHrbYXh8wrFRS5kINDmeFHKAALDcto0Okn6EBRo2xD_b9crh6XZ1VSWO-tCU_FcxOosKiqJtJ-EVIyMxpJJNPR8pg5caKn4g6LN-PxlyL1t4zQ2dp251JuJ-0TJCpXGS0i5CmF8u0eAymcc1yeC6SpW1dBAnQCCvf2t64_P3bUy8" src="https://img.plantuml.biz/plantuml/png/ZLJ1Qjj04BtlLoo-j8Ng5qgAIyabbz2GIw0iqjOHLTP6kpub0RibpS61qbEXb3PjyW6AiHlXsCelpFvHPYHPqTeowK56tfdtviti6srf8sBJFufO93yORhey3Zk7XWTXB7qJTXLZmZVTcBVW9qnXWSy4_i7K3WuKt4F6xG0Ik87CVeBfWR933ZEuWvHoyIY1EQGjBZJV4KfqP5onNThFc9d169y9f0I7Etk1h4GreN-GvCXjAGB6I8vGdKZoLdjtnxD3n0npr9poZXbZd3_ZdkTn-F6em8xe24DzBNsX4GrNS9-B7cCMTPIIy0sgzzhlsr4ebIda7-6Rm_KN9t567FOStuR8ajYld0Q3BKneJ3YiMTb8HROjevv3ynlpCeJFgNaQBKTmWhmBEx9dAoDrkVQ5yGzhlNz7769HJ_gVdTzMYBnl_XpdHxLlwFSb5K_AVCeQs8iNImNlXFwedGf_iF7RKligUrg7jMCfZ7Imbxct4fXXaoaD17K-oRFN2rPvhdAMvWuTx6kjmuvwwY8sWD-WAwDGoThehx7SWYIZCTTjLujIQtQKIylGA-IIn7x1U5NXRQY4yaCHwHh_BvHqRhyrcleQ1G_e-jO6borHTCxnVlCO3OYMBiNhhQhkobutDfgTCbQK39KVzGFfvKCOqyOXW6P3crVugznhV6zS5ZTS6COzgxTAgruUBxNKZjR8cRi5c7RogZ7HsRpDQSmnPvLNg7OCrnmh3DKSM_fb9Sgsf0hmy_i0" />
 
 
 # Перечень сделанных предположений
@@ -56,7 +56,7 @@
 
 Масштабируемость разработки:
 
-С ростом команды и кодовой базы производительность разработчиков не должна падать. CQS и чистая архитектура позволяют разным командам работать над независимыми модулями (например, над командами записи и запросами чтения) с минимальными конфликтами. 
+С ростом команды и кодовой базы производительность разработчиков не должна падать. CQS и чистая архитектура позволяют разным командам работать над независимыми модулями (например, над командами записи и запросами чтения) с минимальными конфликтами.
 Возможность добавления нового разработчика в команду с выходом на уровень самостоятельной разработки в течение 1-2 недель за счет понятной структуры.
 
 Тестируемость:
